@@ -1,4 +1,5 @@
 Election Scraper
+
 Jedná se o Třetí projekt zpracovaný v rámci zadání Engeto Akademie.
 
 Popis projektu
