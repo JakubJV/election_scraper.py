@@ -32,4 +32,5 @@ Např. takto:
 python election_scraper.py <"okdaz_webu"> <"vysledny_soubor">
 Výstupem programu bude soubor se staženými daty ve formátu .csv.
 Úplně přesně vás vstup má vypadat takto:
+
 python election_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=6&xnumnuts=4204" "vysledky_lipno.csv"
